@@ -69,7 +69,7 @@ The api requires the following environment variables:
 - DEVOPSTIC_DATABASE_NAME: default: devopstic
 
 For user authentication, 2 options:
-- Environement variables:
+- Environment variables:
   
   DEVOPSTIC_USERNAME and DEVOPSTIC_PASSWORD can be used to define the credentials that will allow to retrieve a token
   
